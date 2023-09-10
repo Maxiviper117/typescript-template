@@ -1,0 +1,22 @@
+# Compiled output
+/dist
+/out
+/build
+
+# Dependency directories
+/node_modules
+
+# TypeScript cache
+*.tsbuildinfo
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+
+node_modules/
