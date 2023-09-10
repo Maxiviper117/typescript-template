@@ -102,3 +102,5 @@ Using `tsc -watch` to watch for changes.
 ```
 
 We set the main entry point to the `dist/<name>.js` file. Which is where the generated code will be placed.
+
+- `rimraf` is a command line utility that removes files and folders installed with `npm install rimraf --save-dev` if using windows.
